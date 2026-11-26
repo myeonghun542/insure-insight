@@ -1,0 +1,17 @@
+# Java / Maven
+backend/target/
+backend/.idea/
+*.class
+
+# Vue / Node
+frontend/node_modules/
+frontend/dist/
+frontend/.npm-cache/
+frontend/.env.local
+frontend/.env.*.local
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
